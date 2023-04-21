@@ -9,7 +9,7 @@ To use this script, follow these steps:
 
 2. Clone the repository:
 ```powershell
-git clone https:/github.com/hiitsmatan/install-win-updates.git
+git clone https://github.com/hiitsmatan/install-win-updates.git
 cd install-win-updates
 Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process -Force
 .\install-win-updates.ps1
